@@ -1,6 +1,9 @@
-# tictactoecsoportos
+# Tic-Tac-Toe | 2024
 
-This template should help get you started developing with Vue 3 in Vite.
+
+It was a homework assignment for web development class. We had to create a Tic-Tac-Toe game using Vue.JS framework
+
+<i>Ez egy házidolgozat feladata volt webfejlesztés órára. Egy Tic-Tac-Toe játékot kellett készítenünk Vue.JS framework használatával</i>
 
 ## Recommended IDE Setup
 
