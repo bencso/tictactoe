@@ -9,13 +9,7 @@ It was a homework assignment for web development class. We had to create a Tic-T
 Task: Create a tictactoe game that can be played against each other in a browser.
 
 <i>Feladat: Készíts egy olyan tictactoe játékot, amelyet egymás ellen lehet játszani a böngészőben.</i>
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
