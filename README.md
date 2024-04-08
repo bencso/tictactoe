@@ -1,5 +1,5 @@
 <img src="project.jpg"/>
-# Tic-Tac-Toe | 2024
+<h1>Tic-Tac-Toe | 2024 </h1>
 
 
 It was a homework assignment for web development class. We had to create a Tic-Tac-Toe game using Vue.JS framework
