@@ -1,4 +1,4 @@
-<img src"project.jpg">
+<img src"project.jpg"></img>
 # Tic-Tac-Toe | 2024
 
 
