@@ -1,6 +1,6 @@
 # Tic-Tac-Toe (Amőba) 🎮
 
-> Interaktív kétszemélyes amőba játék böngészőben - Vue.js Composition gyakorlás
+> Interaktív amőba játék Vue.js-ben - Iskolai webfejlesztés projekt
 
 ## 🎯 Projekt célja
 
@@ -34,8 +34,22 @@ A játék 8 lehetséges nyerő kombinációt vizsgál:
 - 2 átló
 
 ## 🏁 Telepítés és használat
-Előfeltételek
+
+### Előfeltételek
 - Node.js (14.x vagy újabb)
+
+### Telepítés
+
+```bash
+# Repository klónozása
+git clone https://github.com/bencso/tictactoe.git
+
+# Függőségek telepítése
+npm install
+
+# Fejlesztői szerver indítása
+npm run dev
+```
 
 ## 📄 Licensz
 
