@@ -1,39 +1,58 @@
 # Tic-Tac-Toe (Amőba) 🎮
 
-> Kétszemélyes amőba játék böngészőben - Vue.js webfejlesztési gyakorlat
+> Interaktív kétszemélyes amőba játék böngészőben - Vue.js Composition gyakorlás
 
 ## 🎯 Projekt célja
 
-Ez egy iskolai házi feladat volt a webfejlesztés órához, ahol a cél egy működő Tic-Tac-Toe (amőba) játék készítése Vue.js framework használatával, amit két játékos játszhat egymás ellen a böngészőben.
+Ez egy iskolai házi feladat volt a webfejlesztés órához, ahol a cél egy működő Tic-Tac-Toe (amőba) játék készítése Vue.js framework használatával. A játék két játékos számára készült, akik felváltva léphetnek egymás ellen egy böngészőben.
 
+**Eredeti feladat:**  
+*"Create a tictactoe game that can be played against each other in a browser."*
 
 ## ✨ Funkciók
 
-- ✅ Kétszemélyes játékmód
-- ✅ Nyerő ellenőrzés
-- ✅ Játékállás vizualizáció
+- ✅ **Interaktív játékosválasztás** - A játék indulásakor választható, hogy X vagy O jellel játszol
+- ✅ **Kétszemélyes játékmód** - Felváltva lépő játékosok
+- ✅ **Automatikus nyerés-ellenőrzés** - 8 nyerő kombináció vizsgálata
+- ✅ **Valós idejű státusz** - Aktuális játékos kijelzése
+- ✅ **Játék újraindítása** - Bármikor kezdhető új játék
+- ✅ **Responsive design** - Tailwind CSS alapú megjelenés
+- ✅ **Nyertes kijelzése** - Játék végén automatikus eredmény megjelenítés
 
 ## 🛠️ Technológiák
 
-- **Vue.js** - Frontend framework
+### Frontend
+- **Vue.JS** - Composition API
 - **JavaScript** - Játéklogika
-- **HTML/CSS** - UI és stílus
+- **Tailwind CSS** - Styling framework
+
+## 🎮 Játék logika
+
+A játék 8 lehetséges nyerő kombinációt vizsgál:
+- 3 vízszintes sor
+- 3 függőleges oszlop
+- 2 átló
 
 ## 🏁 Telepítés és használat
+Előfeltételek
+- Node.js (14.x vagy újabb)
 
-### Előfeltételek
+## 📄 Licensz
 
-- Node.js telepítve
-- npm package manager
+MIT License - Szabadon használható és módosítható
 
-### Telepítés
+---
 
-```bash
-# Repository klónozása
-git clone https://github.com/bencso/tictactoe.git
+**Státusz:** ✅ Befejezett
 
-# Könyvtár megnyitása
-cd tictactoe
+**Befejezés dátuma:** 2023.
 
-# Függőségek telepítése
-npm install
+---
+
+## 💭 Megjegyzések
+
+Ez egy tanulási projekt volt Vue.JS gyakorlására egy iskolai tanóra keretében. A projekt során megismerkedtem a reaktív állapotkezeléssel és a Vue.js alapjaival. Bár egy egyszerű amőba játék, jó bevezetés volt a framework-ok világába.
+
+---
+
+**⭐ Ha tetszik a projekt és az ötlet, örülök egy csillagnak :D**
