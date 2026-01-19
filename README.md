@@ -22,7 +22,7 @@ Ez egy iskolai házi feladat volt a webfejlesztés órához, ahol a cél egy mű
 ## 🛠️ Technológiák
 
 ### Frontend
-- **Vue.JS** - Composition API
+- **Vue.JS**
 - **JavaScript** - Játéklogika
 - **Tailwind CSS** - Styling framework
 
@@ -58,14 +58,6 @@ MIT License - Szabadon használható és módosítható
 ---
 
 **Státusz:** ✅ Befejezett
-
-**Befejezés dátuma:** 2023.
-
----
-
-## 💭 Megjegyzések
-
-Ez egy tanulási projekt volt Vue.JS gyakorlására egy iskolai tanóra keretében. A projekt során megismerkedtem a reaktív állapotkezeléssel és a Vue.js alapjaival. Bár egy egyszerű amőba játék, jó bevezetés volt a framework-ok világába.
 
 ---
 
