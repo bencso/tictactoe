@@ -1,31 +1,39 @@
-<img src="project.jpg"/>
-<h1>Tic-Tac-Toe | 2024 </h1>
+# Tic-Tac-Toe (Amőba) 🎮
+
+> Kétszemélyes amőba játék böngészőben - Vue.js webfejlesztési gyakorlat
+
+## 🎯 Projekt célja
+
+Ez egy iskolai házi feladat volt a webfejlesztés órához, ahol a cél egy működő Tic-Tac-Toe (amőba) játék készítése Vue.js framework használatával, amit két játékos játszhat egymás ellen a böngészőben.
 
 
-It was a homework assignment for web development class. We had to create a Tic-Tac-Toe game using Vue.JS framework
+## ✨ Funkciók
 
-<i>Ez egy házidolgozat feladata volt webfejlesztés órára. Egy Tic-Tac-Toe játékot kellett készítenünk Vue.JS framework használatával</i>
+- ✅ Kétszemélyes játékmód
+- ✅ Nyerő ellenőrzés
+- ✅ Játékállás vizualizáció
 
+## 🛠️ Technológiák
 
-Task: Create a tictactoe game that can be played against each other in a browser.
+- **Vue.js** - Frontend framework
+- **JavaScript** - Játéklogika
+- **HTML/CSS** - UI és stílus
 
-<i>Feladat: Készíts egy olyan tictactoe játékot, amelyet egymás ellen lehet játszani a böngészőben.</i>
+## 🏁 Telepítés és használat
 
+### Előfeltételek
 
-## Project Setup
+- Node.js telepítve
+- npm package manager
 
-```sh
+### Telepítés
+
+```bash
+# Repository klónozása
+git clone https://github.com/bencso/tictactoe.git
+
+# Könyvtár megnyitása
+cd tictactoe
+
+# Függőségek telepítése
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
